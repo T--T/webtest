@@ -1,0 +1,114 @@
+body{
+	font-family: "宋体", sans-serif;font-size: 12px;line-height:24px;
+	text-align: center;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#center { 
+	MARGIN-RIGHT: auto; MARGIN-LEFT: auto; 
+}
+
+.s_bg{
+	width:1000px;
+	height:900px;
+	background-color:#343434;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.s_title{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.s_text01{
+	font-size: 24px;
+	line-height:36px;
+	text-align: left;
+	font-weight: bold;
+	float: left;
+	width:450px;
+	padding-top: 40px;
+	padding-left: 20px;
+}
+
+p{
+	color:#fff;
+	text-indent: 2em;
+}
+
+.s_flashImg{
+    float: right;
+}
+
+.s_context01{
+	font-size: 24px;
+	line-height:36px;
+	text-align: left;
+	font-weight: bold;
+	width:950px;
+	padding-top: 40px;
+	padding-left: 20px;
+}
+
+.s_span02{
+	margin-bottom: 10px;
+}
+
+.s_span04{
+	width:100%;
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color:#FF2F2F;
+	font-family: \534E\6587\884C\6977,\5E7C\5706;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+.s_span05{
+	width:100%;
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color:#FF2F2F;
+}
+
+.s_telephone{
+	position: fixed;
+	left: 0px;
+	top: 50%;
+	background-color: #E8E9E4;
+	vertical-align: middle;
+}
+
+.s_phonetitle{
+	text-indent: 0em;
+	color: red;
+	vertical-align: middle;
+	text-align: center;
+	padding-left: 20px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family:"微软雅黑";
+}
+
+.s_phone{
+	vertical-align: middle;
+	text-indent: 0em;
+	color: black;
+	text-align: right;
+	padding-left: 20px;
+	padding-right: 5px;
+	font-family: "Times New Roman";
+	font-size: 16px;
+}
+.s_phoneImg{
+	position: relative;
+	top: 5px;
+	right: 5px;
+}
